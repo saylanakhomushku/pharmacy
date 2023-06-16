@@ -8,6 +8,7 @@ function Item({ data }) {
         <button type="button" className="btn btn-primary btn-decr" />
         1
         <button type="button" className="btn btn-primary btn-incr" />
+        <h4>drftgyh</h4>
       </div>
     </li>
   );
