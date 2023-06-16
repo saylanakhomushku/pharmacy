@@ -9,6 +9,7 @@ function LiOrderItem({ el, decreaseHandler, increaseHandler }) {
         {el.amount}
         <button type="button" className="btn btn-primary btn-incr" onClick={() => increaseHandler(el)} />
       </div>
+      <h2>sdfghtyj</h2>
     </li>
   );
 }
