@@ -59,6 +59,7 @@ export default function LK({ currUser, setCurrUser }) {
           className="form-control"
           id="inputEmail"
         />
+        <h3>juyhtgrfedfe</h3>
       </div>
       <button type="submit" className="btn btn-primary">Редактировать</button>
     </form>
