@@ -19,6 +19,7 @@ function PrevCard({ dataItem, getPrice }) {
           </Link>
           <button type="button" className="btn btn-primary rounded-pill" onClick={() => getPrice(dataItem)}>Купить</button>
         </div>
+        <p>fygtuhijk</p>
       </div>
 
     </div>

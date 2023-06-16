@@ -6,6 +6,7 @@ function MainPage({ data }) {
   return (
       <div>
         <TreatmentPage data={data}/>
+        <span>sdfgbhgfrde</span>
       </div>
   );
 }

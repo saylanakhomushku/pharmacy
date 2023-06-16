@@ -81,6 +81,7 @@ function Order({ currUser }) {
         </ul>
         <OrderResult result={result} checkHandler={checkHandler} deleteHandler={deleteHandler} />
       </div>
+  <span>sdfghyuhtgrfedw</span>
     </div>
   );
 }
